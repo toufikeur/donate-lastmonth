@@ -157,3 +157,90 @@ input {
 #page-c {
     background-color: rgb(139, 119, 82);
 }
+
+.last-donate-now {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+#donate-last-now {
+    width: 50%;
+    height: 50px;
+}
+
+#donate-last-pic {
+    width: 50%;
+}
+
+.prp {
+    padding: 4%;
+
+}
+
+#donate-last-pc {
+    width: 50%;
+}
+
+.finish {
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.cont {
+    background-color: orangered;
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 5%;
+}
+
+#update {
+    font-size: 60px;
+}
+
+#upto {
+    text-align: center;
+}
+
+.size {
+    font-size: 20px;
+}
+
+.submit {
+    display: flex;
+    text-align: center;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.button {
+    background-color: orangered;
+
+}
+
+.mad {
+    background-color: bisque;
+    height: 130px;
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 60px;
+}
+
+#last-h {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    font-size: 30px;
+    padding-bottom: 15px;
+    color: tomato;
+}
+
+#last-last {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 170px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
